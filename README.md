@@ -2,6 +2,20 @@
 
 * \
 
+* тот же knot relative size abuse \ 
+
+* при небольшом количестве объектов в focus'е внимания \ можно вернуться обратно
+
+* челы tri\es сделать чтобы ты выходил из focus'a внимания за allocatd memory
+
+* sequence constructin из focus внимания
+
+* описание примерно следующее
+
+* "very" user-friendly interface
+
+* \
+
 * knot-dc-one \ мы продолжаем сидеть под собаками
 
 * доу \ ну вы конечно доу\ет\е \ только через николая угодника нашли этот high-couplin \
